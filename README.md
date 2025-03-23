@@ -171,6 +171,9 @@ OP_HASH160 <scriptHash> OP_EQUAL
 <signature>
 <pubKey>
 ```
+## DEBUGGER
+  
+  ![image](https://github.com/user-attachments/assets/297f6f6b-cbd1-4c0e-9aab-bf72fa80059d)
 
 ## Key Differences Between Legacy and SegWit
 
